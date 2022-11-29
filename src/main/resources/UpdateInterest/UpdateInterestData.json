@@ -1,0 +1,6 @@
+{
+    "rate": 10,
+    "instantRate": 0.2,
+    "duration": 86400000,
+    "type": "saving"
+}
