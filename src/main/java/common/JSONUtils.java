@@ -69,7 +69,6 @@ public String checkErrorMessage(String responseBody) {
 		  }
 	  }
 	  return responseBodyCheck;	
-
 }
 
 }
